@@ -105,8 +105,6 @@ The scheduling policy is **First-Come, First-Served (FCFS)**. Threads are execut
 
 ---
 
-Let me know if you want it in markdown formatting or any additional formatting!
-
 
 ## 🧪 Example Usage
 
