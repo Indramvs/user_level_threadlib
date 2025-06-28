@@ -6,6 +6,7 @@ This project implements a simple **user-level thread library** using `ucontext.h
 To compile and run the program, use the following commands
 ```bash
 make
+./mythreads
 ````
 
 ---
